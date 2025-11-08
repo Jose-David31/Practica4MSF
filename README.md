@@ -4,7 +4,7 @@
 
 ## Información del estudiante
 
-José David Ramírez RUiz [22212268]; l22212268@tectijuana.edu.mx
+José David Ramírez Ruiz [22212268]; l22212268@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
