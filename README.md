@@ -4,7 +4,7 @@
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+José David Ramírez RUiz [22212268]; l22212268@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
