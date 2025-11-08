@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Modelo Matemático; EDOS; Regeneración; GLobulos Rojos; Sistema de ecuaciones.
 
 ## Lista de archivos incluidos en el repositorio
 
